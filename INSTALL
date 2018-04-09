@@ -1,9 +1,0 @@
-Building GChain
-
-See doc/readme-qt.rst for instructions on building GChain QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of GChain.
-
-See doc/build-*.txt for instructions on building gchaind,
-the intended-for-services, no-graphical-interface, reference
-implementation of GChain.
